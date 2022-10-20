@@ -1,1 +1,1 @@
-Code a projecta nd use git to manage it
+Code a projecta and use git to manage it. It should be a game.
